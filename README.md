@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋, I'm George Andronache</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adidiac&label=Profile%20views&color=0e75b6&style=flat" alt="adidiac" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=adidiac&label=Profile%20views&color=0e75b6&style=flat" alt="georgecpp" /> </p>
 
 - 🔭 I’m currently working on **Remind Buddy**
 
