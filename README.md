@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm George Andronache</h1>
 
 
-- 🔭 I’m currently working on **Remind Buddy**
+- 🔭 I’m currently working on **Raily 🚆**
 
 - 🌱 I’m currently learning: **Android/iOS Dev | Full-Stack Development**
 
