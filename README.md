@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm George Andronache</h1>
 
 
-- 🔭 I’m currently working as Java Backend Developer at ***Deutsche Bank***
+- 🔭 I’m currently working as Java Backend Developer at ***Deutsche Bank*** <a href="https://developer.android.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg" alt="android" width="40" height="40"/> </a>
 
 - 🌱 I’m currently learning: **Android/iOS Dev | Full-Stack Development**
 
