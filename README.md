@@ -34,5 +34,5 @@
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1473756532827246593/KRgw2UkV_400x400.jpg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/docker-logo-vector.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://spring.io/" target="_blank"> <img src="https://banner2.cleanpng.com/20180713/otv/kisspng-spring-framework-software-framework-modelview-pepper-robot-5b48c128f2f1c1.7505867115314946969951.jpg" alt="spring" width="40" height="40"/> </a>
+<a href="https://spring.io/" target="_blank"> <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" alt="spring" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Firebase_Logo.svg/1280px-Firebase_Logo.svg.png" alt="firebase" width="40" height="40"/> </a>
