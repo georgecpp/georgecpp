@@ -31,7 +31,7 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://seeklogo.com/images/M/microsoft-azure-logo-2575D39E82-seeklogo.com.png" alt="azure" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.epiuse.com/wp-content/uploads/2021/02/AWS-partner-network-logo.jpg" alt="aws" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.dlf.pt/dfpng/middlepng/437-4376041_aws-logo-png-free-stock-logo-aws-transparent.png" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="docker" width="40" height="40"/> </a>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.shapeblue.com/wp-content/uploads/2020/12/Kubernetes-logo.png alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Spring_Framework_Logo_2018.svg/800px-Spring_Framework_Logo_2018.svg.png" alt="spring" width="40" height="40"/> </a>
