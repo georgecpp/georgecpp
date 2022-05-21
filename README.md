@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm George Andronache</h1>
 
 
-- 🔭 I’m currently working on ***Raily 🚆🛤️***
+- 🔭 I’m currently working as Java Backend Developer at ***Deutsche Bank***
 
 - 🌱 I’m currently learning: **Android/iOS Dev | Full-Stack Development**
 
