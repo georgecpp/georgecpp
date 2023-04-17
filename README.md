@@ -31,8 +31,9 @@
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://seeklogo.com/images/M/microsoft-azure-logo-2575D39E82-seeklogo.com.png" alt="azure" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1473756532827246593/KRgw2UkV_400x400.jpg" alt="aws" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://seeklogo.com/images/A/amazon-web-services-aws-logo-6C2E3DCD3E-seeklogo.com.png" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/thumbs/docker-logo-vector.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://kubernetes.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank"> <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" alt="spring" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://seeklogo.com/images/F/firebase-logo-402F407EE0-seeklogo.com.png" alt="firebase" width="40" height="40"/> </a>
+<a href="https://ethereum.org/en/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" alt="ethereum" width="45" height="45"/> </a>
