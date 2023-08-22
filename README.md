@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm George Andronache</h1>
 
 
-- 👨‍💻 I’m currently working as Backend Engineer at **Objective Solutions Sweden AB**   <a href="https://objective.se/" target="_blank"> <img src="https://media.licdn.com/dms/image/C4D0BAQHKtmsK91T7AQ/company-logo_200_200/0/1661503638569?e=2147483647&v=beta&t=51YJppviIc8skaemW-nzI0o98W86GcbqXy3eaQ_tj0E" alt="Deutsche Bank" width="35" height="35"/> </a>
+- 👨‍💻 I’m currently working as Backend Engineer at **Objective Solutions Sweden AB**   <a href="https://objective.se/" target="_blank"> <img src="https://media.licdn.com/dms/image/C4D0BAQHKtmsK91T7AQ/company-logo_200_200/0/1661503638569?e=2147483647&v=beta&t=51YJppviIc8skaemW-nzI0o98W86GcbqXy3eaQ_tj0E" alt="Deutsche Bank" width="40" height="40"/> </a>
 
 - 🌱 I’m currently learning: **System Design | Software Architecture 🔧⚙️🚀**
 
