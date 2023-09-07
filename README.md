@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning: **System Design | Software Architecture 🔧⚙️🚀**
 
-- 💬 Ask me about: **Backend Dev | Microservices | Distributed Systems | Android/iOS Mobile Dev**
+- 💬 Ask me about: **Backend Dev | Microservices | Distributed Systems**
 
 - 📫 How to reach me: **georgeandronache.cpp@gmail.com**
 
