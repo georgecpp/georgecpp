@@ -1,7 +1,8 @@
 <h1 align="center">Hello there 👋, I'm George Andronache</h1>
 
 
-- 👨‍💻 I’m currently working as Backend Engineer at **Objective Solutions Sweden AB** 🇸🇪✈️
+- 👨‍💻 I’m currently working as Backend Engineer at **Objective Solutions Sweden AB** 🇸🇪
+- ⚙️ We're rocking the airlines industry in Scandinavia processing more than 100 million passengers per year on 65 airports ✈️🛬🛣🛫
 
   <a href="https://objective.se/" target="_blank"> <img src="https://images.ctfassets.net/5wbxm626npmw/216ktnhu1cVx4DaoRVTqfn/3ee8f18aacddbcb22761f3ea73d88c09/productselfservice3.jpg?w=2500&q=100&fit=pad" alt="Objective Solutions" width="800" height="440"/> </a>
 
