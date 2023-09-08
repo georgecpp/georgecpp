@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently working as Backend Engineer at **Objective Solutions Sweden AB** 🇸🇪✈️
 
-  <a href="https://objective.se/" target="_blank"> <img src="https://media.licdn.com/dms/image/C4D22AQHzK3EJvmZlhA/feedshare-shrink_800/0/1677502609605?e=1694044800&v=beta&t=3BvYfwNZQX2NyLYBUDpozzNibF2bjFoxWdban2pag3k" alt="Objective Solutions" width="800" height="240"/> </a>
+  <a href="https://objective.se/" target="_blank"> <img src="https://images.ctfassets.net/5wbxm626npmw/216ktnhu1cVx4DaoRVTqfn/3ee8f18aacddbcb22761f3ea73d88c09/productselfservice3.jpg?w=2500&q=100&fit=pad" alt="Objective Solutions" width="800" height="440"/> </a>
 
 - 🌱 I’m currently learning: **System Design | Software Architecture 🔧⚙️🚀**
 
