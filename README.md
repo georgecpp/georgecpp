@@ -15,7 +15,7 @@
 - 🔗 LinkedIn: https://www.linkedin.com/in/george-andronache-b74355197/
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My tech stack:</h3>
 <a href="https://developer.android.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://go.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="go" width="50" height="50"/> </a>
