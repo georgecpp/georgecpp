@@ -15,7 +15,7 @@
 - 🔗 LinkedIn: https://www.linkedin.com/in/george-andronache-b74355197/
 
 
-<h3 align="left">I work with:</h3>
+<h3 align="left">I work with: /h3>
 <a href="https://developer.android.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Android_logo_2019_%28stacked%29.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://www.java.com/en/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
