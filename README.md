@@ -6,7 +6,7 @@
 
   <a href="https://objective.se/" target="_blank"> <img src="https://images.ctfassets.net/5wbxm626npmw/216ktnhu1cVx4DaoRVTqfn/3ee8f18aacddbcb22761f3ea73d88c09/productselfservice3.jpg?w=2500&q=100&fit=pad" alt="Objective Solutions" width="800" height="440"/> </a>
 
-- 🌱 I’m currently learning: **System Design | Software Architecture 🔧⚙️🚀**
+- 🌱 I’m constantly learning: **System Design | Software Architecture 🔧⚙️🚀**
 
 - 💬 Let's talk: **Backend Dev | Microservices | Distributed Systems**
 
