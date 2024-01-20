@@ -8,9 +8,9 @@
 
 - 🌱 I’m constantly learning: **System Design | Software Architecture 🔧⚙️🚀**
 
-- 💬 Let's talk: **Backend Dev | Microservices | Distributed Systems**
+- 💬 Let's talk about: **Backend Dev | Microservices | Distributed Systems**
 
-- 📫 How to reach : **georgeandronache.cpp@gmail.com**
+- 📫 How to reach me: **georgeandronache.cpp@gmail.com**
 
 - 🔗 LinkedIn: **https://www.linkedin.com/in/george-andronache-b74355197/**
 
