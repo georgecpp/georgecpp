@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **georgeandronache.cpp@gmail.com**
 
-- 🔗 LinkedIn: **https://www.linkedin.com/in/george-andronache-b74355197/**
+- 🔗 LinkedIn: *https://www.linkedin.com/in/george-andronache-b74355197/**
 
 
 <h1 align="center">I work with</h1>
