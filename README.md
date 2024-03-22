@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently working as Software Engineer at **Qualcomm** Sensors Technologies division.
 
-- 🌱 I’m constantly learning: **System Design | Software Architecture 🔧⚙️🚀**
+- 🌱 I’m constantly learning: **System Design | Software Architectur 🔧⚙️🚀**
 
 - 💬 Let's talk about: **Low-Level Programming | Android NDK (C++) | Distributed Systems**
 
