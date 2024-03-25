@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋, I'm George Andronache</h1>
 
 
-- 👨‍💻 I’m currently working as Software Engineer at **Qualcomm** Sensors Technologies division.
+- 👨‍💻 I’m currently working as Software Engineer at **Qualcomm** Technologies Sensors division.
 
 - 🌱 I’m constantly learning: **System Design | Software Architecture 🔧⚙️🚀**
 
