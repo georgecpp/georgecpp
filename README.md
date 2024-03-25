@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently working as Software Engineer at **Qualcomm** Technologies Sensors division.
 
-  <a href="https://www.qualcomm.com/" target="_blank"> <img src="https://images.news18.com/ibnlive/uploads/2021/03/1614852308_redmi_note_10_pro_max_processor.jpg?im=FitAndFill=(1200,675)" alt="snapdragon" width="500" height="500"/> </a>
+  <a href="https://www.qualcomm.com/" target="_blank"> <img src="https://images.news18.com/ibnlive/uploads/2021/03/1614852308_redmi_note_10_pro_max_processor.jpg?im=FitAndFill=(1200,675)" alt="snapdragon" width="600" height="400"/> </a>
 
 - 🌱 I’m constantly learning: **System Design | Software Architecture 🔧⚙️🚀**
 
