@@ -5,7 +5,7 @@
 
   <a href="https://www.qualcomm.com/" target="_blank"> <img src="https://images.news18.com/ibnlive/uploads/2021/03/1614852308_redmi_note_10_pro_max_processor.jpg?im=FitAndFill=(1200,675)" alt="snapdragon" width="600" height="300"/> </a>
 
-- 🌱 I’m constantly learning: **System Design | Software Architectur 🔧⚙️🚀**
+- 🌱 I’m constantly learning: **System Design | Software Architecture 🔧⚙️🚀**
 
 - 💬 Let's talk about: **Low-Level Programming | Android NDK (C++) | Distributed Systems**
 
