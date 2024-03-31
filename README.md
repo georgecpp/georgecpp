@@ -7,7 +7,7 @@
 
 - 🌱 I’m constantly learning: **System Design | Software Architecture 🔧⚙️🚀**
 
-- 💬 Let's talk about: **Low-Level Programming | Android NDK (C++) | Distributed Systems**
+- 💬 Let's talk: **Low-Level Programming | Android NDK (C++) | Distributed Systems**
 
 - 📫 How to reach me: **georgeandronache.cpp@gmail.com**
 
