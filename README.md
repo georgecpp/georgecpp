@@ -2,6 +2,8 @@
 
 
 - 👨‍💻 I’m currently working as an Android SDET II @ **CrowdStrike** / Falcon Mobile Sensor (EDR).
+  
+- 📚 I'm also a Teaching Assistant for the Mobile Development course at University Politehnica Bucharest (UPB). On a mission to bring hands-on industry experience to the classroom for 4th year Computer Science students.
 
 - 🌱 I’m constantly learning: **Android System Design 🔧⚙️🚀**
 
